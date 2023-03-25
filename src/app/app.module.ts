@@ -17,7 +17,7 @@ import { FaqComponent } from './components/faq/faq.component';
     FooterComponent,
     ClientsComponent,
     PortfolioComponent,
-    AboutComponent
+    AboutComponent,
     FaqComponent
   ],
   imports: [
